@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "active": "khmer-new-year-2027.1",
+  "fallback": "default-1.0",
+  "generated_at": "2026-09-16T08:12:41Z",
+  "poll_interval_seconds": 21600,
+  "themes": [
+    {
+      "id": "default-1.0",
+      "url": "https://cdn.sothy.site/bundles/default-1.0/theme.zip",
+      "preview_url": "https://cdn.sothy.site/bundles/default-1.0/preview.png",
+      "sha256": "1fcaa153df8efc2ec7a6d443f7826d97f3a5391e2e4e2d68adbe1a2866531152",
+      "size": 7866,
+      "min_app_version": {
+        "ios": "5.2.0",
+        "android": "5.2.0"
+      },
+      "rollout_percent": 100
+    },
+    {
+      "id": "khmer-new-year-2027.1",
+      "url": "https://cdn.sothy.site/bundles/khmer-new-year-2027.1/theme.zip",
+      "preview_url": "https://cdn.sothy.site/bundles/khmer-new-year-2027.1/preview.png",
+      "sha256": "5d9ee7d98fd0f92315ece5af0c76846bf4ccba677ed699242ba62b8bc5a5e6b7",
+      "size": 9332,
+      "min_app_version": {
+        "ios": "5.2.0",
+        "android": "5.2.0"
+      },
+      "rollout_percent": 25,
+      "active_from": "2027-04-13T00:00:00+07:00",
+      "active_to": "2027-04-17T23:59:59+07:00"
+    }
+  ]
+}
