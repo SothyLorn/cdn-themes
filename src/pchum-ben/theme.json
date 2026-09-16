@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "id": "pchum-ben",
+  "name": {
+    "en": "Pchum Ben",
+    "km": "បុណ្យភ្ជុំបិណ្ឌ"
+  },
+  "brightness": "light",
+  "colors": {
+    "primary": "#6A4C93",
+    "primaryVariant": "#4A356A",
+    "secondary": "#E9C46A",
+    "background": "#FBF7F2",
+    "surface": "#FFFFFF",
+    "onPrimary": "#FFFFFF",
+    "onBackground": "#1A1A1A",
+    "onSurface": "#1A1A1A",
+    "success": "#1E8E3E",
+    "warning": "#E37400",
+    "error": "#D93025",
+    "divider": "#E6DFD5"
+  },
+  "gradients": {
+    "header": {
+      "type": "linear",
+      "angle": 135,
+      "stops": [
+        "#6A4C93",
+        "#E9C46A"
+      ]
+    }
+  },
+  "assets": {
+    "splash_logo": "images/splash_logo.png",
+    "home_header_bg": "images/home_header_bg.png",
+    "login_bg": "images/login_bg.png",
+    "nav_icon_home": "images/nav_home.png",
+    "nav_icon_qr": "images/nav_qr.png",
+    "card_pattern": "images/card_pattern.png"
+  },
+  "animations": {
+    "splash": "lottie/splash.json"
+  },
+  "strings": {
+    "home_greeting": {
+      "en": "Pchum Ben Blessings",
+      "km": "សិរីសួស្តីបុណ្យភ្ជុំបិណ្ឌ"
+    }
+  },
+  "statusBar": {
+    "style": "light-content",
+    "backgroundColor": "#6A4C93"
+  }
+}

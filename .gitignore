@@ -1,0 +1,9 @@
+# Build output - bundles are reproducible from src/ via build-bundle.sh.
+# Committing them puts a new binary zip in history on every build.
+dist/*
+!dist/.gitkeep
+
+.DS_Store
+*.swp
+.manifest.json.*
+*.tmp.*

@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "id": "khmer-new-year",
+  "name": {
+    "en": "Khmer New Year",
+    "km": "បុណ្យចូលឆ្នាំខ្មែរ"
+  },
+  "brightness": "light",
+
+  "colors": {
+    "primary":          "#C8102E",
+    "primaryVariant":   "#8E0B20",
+    "secondary":        "#F2B705",
+    "background":       "#FFF8EE",
+    "surface":          "#FFFFFF",
+    "onPrimary":        "#FFFFFF",
+    "onBackground":     "#1A1A1A",
+    "onSurface":        "#1A1A1A",
+    "success":          "#1E8E3E",
+    "warning":          "#E37400",
+    "error":            "#D93025",
+    "divider":          "#E8DCC8"
+  },
+
+  "gradients": {
+    "header": {
+      "type": "linear",
+      "angle": 135,
+      "stops": ["#C8102E", "#F2B705"]
+    }
+  },
+
+  "assets": {
+    "splash_logo":      "images/splash_logo.png",
+    "home_header_bg":   "images/home_header_bg.png",
+    "login_bg":         "images/login_bg.png",
+    "nav_icon_home":    "images/nav_home.png",
+    "nav_icon_qr":      "images/nav_qr.png",
+    "card_pattern":     "images/card_pattern.png"
+  },
+
+  "animations": {
+    "splash": "lottie/splash.json"
+  },
+
+  "strings": {
+    "home_greeting": {
+      "en": "Happy Khmer New Year",
+      "km": "រីករាយបុណ្យចូលឆ្នាំខ្មែរ"
+    }
+  },
+
+  "statusBar": {
+    "style": "light-content",
+    "backgroundColor": "#C8102E"
+  }
+}

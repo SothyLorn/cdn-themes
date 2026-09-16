@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "id": "default",
+  "name": {
+    "en": "Default",
+    "km": "ស្តង់ដារ"
+  },
+  "brightness": "light",
+  "colors": {
+    "primary": "#0B5FFF",
+    "primaryVariant": "#0846BF",
+    "secondary": "#00A3A1",
+    "background": "#F5F7FA",
+    "surface": "#FFFFFF",
+    "onPrimary": "#FFFFFF",
+    "onBackground": "#101828",
+    "onSurface": "#101828",
+    "success": "#1E8E3E",
+    "warning": "#E37400",
+    "error": "#D93025",
+    "divider": "#E4E7EC"
+  },
+  "gradients": {
+    "header": {
+      "type": "linear",
+      "angle": 135,
+      "stops": [
+        "#0B5FFF",
+        "#00A3A1"
+      ]
+    }
+  },
+  "assets": {
+    "splash_logo": "images/splash_logo.png",
+    "home_header_bg": "images/home_header_bg.png",
+    "login_bg": "images/login_bg.png",
+    "nav_icon_home": "images/nav_home.png",
+    "nav_icon_qr": "images/nav_qr.png",
+    "card_pattern": "images/card_pattern.png"
+  },
+  "strings": {
+    "home_greeting": {
+      "en": "Welcome",
+      "km": "សូមស្វាគមន៍"
+    }
+  },
+  "statusBar": {
+    "style": "light-content",
+    "backgroundColor": "#0B5FFF"
+  }
+}
